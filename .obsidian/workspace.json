@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "da3bcc4f5212be63",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc71529f782d48dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1734e7fc7530eef9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "小文件/化工生产过程安全q7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "化工生产过程安全q7"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acb2afb03d46b18c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfb86ea0d65afd51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2885c208ecdc3adc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1a418b4065fb0071",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "dc5a93774a7da42a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e305dfdb30647fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "737dabcd6c37e7ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af6e492b64969271",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "小文件/化工生产过程安全q7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "化工生产过程安全q7 的反向链接列表"
+            }
+          },
+          {
+            "id": "73494b4b11c57f2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "小文件/化工生产过程安全q7.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "化工生产过程安全q7 的出链列表"
+            }
+          },
+          {
+            "id": "3317ffe720608413",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "977d273ad40b0b78",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "82d010565f811d4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "小文件/化工生产过程安全q7.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "化工生产过程安全q7 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "1734e7fc7530eef9",
+  "lastOpenFiles": [
+    "小文件/化工生产过程安全q6.md",
+    "小文件/化工生产过程安全q7.md",
+    "化工章节/化工生产过程安全.md",
+    "小文件/化工生产过程安全q5.md",
+    "小文件/化工生产过程安全q4.md",
+    "小文件/化工生产过程安全q3.md",
+    "小文件/化工生产过程安全q2.md",
+    "小文件/化工生产过程安全q1.md",
+    "小文件/HAZOP案例2.md",
+    "小文件/HAZOP.md",
+    "小文件/HAZOP释1.md",
+    "小文件/HAZOP案例1.md",
+    "小文件/HAZOP释2.md",
+    "注安化工.md",
+    "小文件",
+    "化工章节",
+    "化工目录.md",
+    "2025年中安-化工-233蓝宝典【李天宇】.pdf"
+  ]
+}
