@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "化工章节/化工生产过程安全.md",
+                "file": "化工章节/危险化学品基础知识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "化工生产过程安全"
+              "title": "危险化学品基础知识"
             }
           }
         ]
@@ -186,11 +186,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2885c208ecdc3adc",
+  "active": "1734e7fc7530eef9",
   "lastOpenFiles": [
-    "注安化工.md",
     "化工章节/化工生产过程安全.md",
+    "化工章节/危险化学品基础知识.md",
+    "小文件/化工生产过程安全q10.md",
+    "小文件/化工生产过程安全q9.md",
+    "小文件/未命名 1.md",
+    "小文件/化工生产过程安全q8.md",
     "小文件/化工生产过程安全q7.md",
+    "注安化工.md",
     "小文件/化工生产过程安全q6.md",
     "小文件/化工生产过程安全q5.md",
     "小文件/化工生产过程安全q4.md",
