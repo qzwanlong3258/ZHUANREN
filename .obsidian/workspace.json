@@ -73,8 +73,19 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "b19ad16af2c75c0e",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,19 +194,27 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "2885c208ecdc3adc",
+  "active": "1734e7fc7530eef9",
   "lastOpenFiles": [
+    "小文件/化工装置开停工安全技术q6.md",
+    "化工章节/化工装置开停工安全技术.md",
+    "小文件/化工装置开停工安全技术q5.md",
+    "小文件/化工装置开停工安全技术q4.md",
+    "小文件/化工装置开停工安全技术q3.md",
+    "小文件/化工装置开停工安全技术q2.md",
+    "小文件/化工装置开停工安全技术q1.md",
+    "未命名.base",
+    "注安化工.md",
+    "化工章节/化工生产过程安全.md",
     "化工章节/危险化学品基础知识.md",
     "小文件/SDS.md",
     "化工章节/危险化工工艺及安全技术.md",
     "化工章节/工艺安全风险分析技术.md",
-    "化工章节/化工装置开停工安全技术.md",
-    "注安化工.md",
     "小文件/故障假设分析WIA流程是什么，为什么要这样设计.md",
-    "化工章节/化工生产过程安全.md",
     "小文件/故障假设分析.md",
     "小文件/预先危险性分析PHA流程为什么要这样设计.md",
     "小文件/预先危险性分析PHA.md",
@@ -208,12 +227,6 @@
     "小文件/失控反应发生可能性评估.md",
     "失控反应严重度评估.md",
     "小文件/失控反应严重度评估.md",
-    "小文件/分解热.md",
-    "小文件/裂解（裂化）工艺的重点监控参数.md",
-    "小文件/裂解工艺危险特点.md",
-    "小文件/裂解（裂化）工艺事故案例.md",
-    "小文件/裂解（裂化）工艺.md",
-    "小文件/电石生产工艺重点监控的参数.md",
     "图片/Pasted image 20260413161353.png",
     "图片/Pasted image 20260408113149.png",
     "图片/Pasted image 20260408112739.png",
